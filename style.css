@@ -1,0 +1,13 @@
+body{
+  background:blue;
+}
+form label{
+  display: block;
+  font-size:20px;
+}
+form imoput{
+  display: block;
+  font-size:20px;
+background:black
+  color:white;
+}
